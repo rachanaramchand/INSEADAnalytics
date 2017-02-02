@@ -111,7 +111,7 @@ print(m1,'chart')
 ```
 <br> 
 
-Here is the scree plot (see Sessions 3-4 readings):
+Here is the screen plot (see Sessions 3-4 readings):
 <br>
 
 ```{r echo=TRUE, eval=TRUE, comment=NA, warning=FALSE,error=FALSE, message=FALSE, prompt=FALSE, tidy=TRUE}
@@ -163,10 +163,19 @@ print(m1,'chart')
 <br>
 
 **Your Answers here:**
+<br>1. 6 
+
+<br>2. The highest weight are 
+10yr T-Notes: 0.93, 
+10yr T-Notes: 0.93 
+Treasury Bonds: 0.86 
+2 yr T-Note US: 0.85 
+Canadian Bond: 0.79. 
+<br>3. The first 10 components are all agricultural commodities. 
 <br>
-<br>
-<br>
-<br>
+ 5. Futures returns tend to do well in bear markets and poorly in bull markets
+
+
 
 
 <hr>
@@ -247,7 +256,10 @@ How does this compare with **existing CTA products** such as [this one from Soci
 <br>
 
 **Your Answers here:**
+<br>1. This code runs a sliding classifier through the historical returns data in order to identify potential arbitrage opportunities. 
+
 <br>
+2. Different technical indicators produce different recommendations about the timing of investment. 
 <br>
 <br>
 <br>
